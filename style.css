@@ -25,3 +25,9 @@ html {
 .text h1 {
     font-size: 24pt;
 }
+
+.indextea {
+    margin-top: -7%;
+	margin-left: 40%;
+    position: absolute;
+}
