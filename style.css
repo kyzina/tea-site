@@ -5,3 +5,23 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.text {
+    box-shadow: 0px 0px 7px #eee;
+    font-family: Century Gothic;
+    border-radius: 9px;
+    padding: 10px 10px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 19%;
+    font-size: 20pt;
+    float: left;
+}
+
+.index {
+	background: rgba(158, 229, 37, 0.95);
+}
+
+.text h1 {
+    font-size: 24pt;
+}
