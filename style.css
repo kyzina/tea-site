@@ -42,6 +42,13 @@ html {
 	margin-bottom: 3%;
 }
 
+.textenglish {
+    background: rgba(223,220,222, 0.95);
+	margin-right: 23%;
+	margin-left: 23%;
+	margin-bottom: 3%;
+}
+
 .titleblock {
     font-size: 18pt;
 	text-decoration: underline;
@@ -62,6 +69,10 @@ html {
 
 .titlejapanese {
     background: rgba(208,102,18,0.95);
+}
+
+.titleenglish {
+    background: rgba(133,130,132,0.95);
 }
 
 .btn {
