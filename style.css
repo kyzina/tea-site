@@ -24,7 +24,7 @@ html {
     float: left;
 }
 
-.index {
+.textindex {
 	background: rgba(158, 229, 37, 0.95);
 	margin-right: 10%;
 	margin-left: 10%;
@@ -33,17 +33,20 @@ html {
 
 .titleblock {
     font-size: 18pt;
-	color: #eee;
 	text-decoration: underline;
 	text-align: center;
 	margin-bottom: 3%;
 }
 
-.titleblocktext {
+.titletext {
     box-shadow: 0px 0px 7px #eee;
     border-radius: 9px;
     padding: 10px 21%;
-	background: rgba(50,148,20,0.95);
+}
+
+.titleindex {
+	color: #eee;
+    background: rgba(50,148,20,0.95);
 }
 
 .btn {
